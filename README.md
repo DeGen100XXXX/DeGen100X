@@ -1,85 +1,77 @@
-# MONBRG
+# SOCODE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-MONBRG-blue?logo=google-chrome)](https://monbrg.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-MONBRG-blue?logo=twitter)](https://x.com/MONBRGRUN)
+[![Website](https://img.shields.io/badge/Website-SOCODE-blue?logo=google-chrome)](https://socode.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-SOCODE-blue?logo=twitter)](https://x.com/SOCODELAB)
 
-# MONBRG — Solana → Monad Liquidity Bridge Router
+# SOcode — The Modular AI-Powered Development Framework for Solana
 
-```
-CA: 2GKtHyoistVBBLnWKBNk8H5823pkLx5gJKx4w1V6pump
-```
+SOcode is an intelligent modular development framework that lets builders create Solana projects the way they assemble code blocks — faster, safer, and easier to maintain.
 
-MONBRG is an intelligent cross-chain router that bridges Solana assets to the Monad ecosystem through the most optimal route and deploys them directly into yield-generating opportunities — all in a single confirmation.
+On Solana, the real bottleneck is not the lack of ideas.
+It’s how fast those ideas can become reusable, maintainable, and scalable code.
+SOcode does not aim to be "another tool."
+It shifts how on-chain engineering is done — connecting modules, best practices, AI generation, and deployment into one continuous system.
 
-Bridging is no longer relocation — it is yield capture.
+Inside SOcode, every project is decomposed into composable functional modules:
+• Token issuance, staking, locking, and revenue sharing
+• Access control, multisig, and role systems
+• NFT / collections and metadata management
+• Oracle integrations and prediction market logic
+• Integrations with AMMs, liquidity tools, and more
 
----
-
-## 🚀 What MONBRG Does
-MONBRG automates the entire lifecycle of Solana → Monad capital migration:
-
-- Scans user assets and positions on Solana
-- Evaluates real-time bridge metrics (fees, speed, slippage, execution probability)
-- Executes the most optimal Sol → Monad bridging route
-- Deploys assets instantly into yield opportunities on Monad (LP pools, staking, incentives, point systems, airdrop-eligible programs)
-
-Users no longer need to research bridges, compare strategies, or monitor trends.
-
----
-
-## ⚙️ Workflow — 3 Steps
-
-**1. Scan & Analyze**  
-Connect your Solana wallet. MONBRG evaluates asset composition and yield opportunities across Monad using real-time bridge simulations.
-
-**2. Route & Bridge**  
-The system selects the most optimal Sol → Monad route and executes the transfer with a single confirmation.
-
-**3. Deploy & Earn**  
-Once assets arrive on Monad, they are automatically deployed into yield-generating scenarios. Users can track performance and switch strategies anytime.
+You don’t need to implement everything from scratch.
+With SOcode, you simply select modules, generate scaffolding, run checks, and deploy.
+If you understand the business logic, you can ship on Solana.
+If you’re already a developer, your productivity jumps to a new dimension.
 
 ---
 
-## 🔑 Key Features
-| Feature | Description |
-|--------|-------------|
-| Optimal Bridge Routing | Real-time simulation of bridge fees, speed, success rate, and slippage |
-| Automated Yield Deployment | Funds are deployed directly into earning opportunities upon arrival |
-| Unified Dashboard | Portfolio and performance tracking across chains |
-| Non-custodial | All actions are executed through the user’s wallet — fully verifiable on-chain |
-| Designed for both pros & newcomers | Zero configuration required — one click to earn |
+## 🚀 Workflow
+
+SOcode has a 2-phase development process:
+
+### 1) Build
+• Select Modules — tokens, NFTs, roles, governance, and more.
+• Generate Scaffolding — SOcode automatically creates the full project structure and core contract layout.
+
+### 2) Ship
+• Run Checks — logic validation and basic security scanning.
+• Deploy Fast — deploy instantly to Devnet, Testnet, or Mainnet.
 
 ---
 
-## 🧱 Vision
-MONBRG transforms cross-chain bridging from a technical hurdle into a yield-optimized capital movement layer.  
-Assets continuously seek higher return density instead of remaining idle on a single network.
+## 🔥 Project Mission
+
+To make Solana development truly fast, safe, and accessible to everyone — from newcomers to veteran developers.
 
 ---
 
-## 🗺️ Roadmap
-- Phase 1 — Core routing engine (Sol → Monad)
-- Phase 2 — Yield deployment modules and strategy presets
-- Phase 3 — Strategy switching & risk-profiling system
-- Phase 4 — Developer Bridge SDK for ecosystem integrations
-- Phase 5 — Multi-chain expansions based on demand
+## ⚠ Security Reminder
+
+Only use the official website and GitHub repository.
+Do not purchase fake tokens or interact with unofficial contracts.
 
 ---
 
-## 🛡️ Security
-- Non-custodial routing and deployment
-- All transactions signed by the user’s wallet
-- No private key storage or proxy custody
+## 🛠 Status
+
+SOcode V1 is live and open-sourced on GitHub.
+The codebase has more than 1700 commits and continues to update weekly.
 
 ---
 
-## ⚠️ Disclaimer
-MONBRG does not provide financial advice. Users are responsible for their own investment decisions. Always perform your own research and understand risks before deploying capital.
+## 📌 Contributions
+
+Contributions, discussions, and PRs are welcome.
+Builders are encouraged to submit new modules or improve existing ones.
 
 ---
 
+## 🌐 License
+
+Open-source and free for the community.
