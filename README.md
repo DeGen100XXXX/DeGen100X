@@ -1,82 +1,39 @@
-# SOBYTE
+# MOLARA
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-SOBYTE-blue?logo=google-chrome)](https://sobyte.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-SOBYTE-blue?logo=twitter)](https://x.com/SOBYTECODE)
+[![Website](https://img.shields.io/badge/Website-MOLARA-blue?logo=google-chrome)](https://molara.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-MOLARA-blue?logo=twitter)](https://x.com/MOLARAFORK)
 
 ```
-CA: ECLa9H8uBivBx3VBgMqkGMApYRRwEjmWM3WSr9Uopump
+$$\      $$\  $$$$$$\  $$\        $$$$$$\  $$$$$$$\   $$$$$$\  
+$$$\    $$$ |$$  __$$\ $$ |      $$  __$$\ $$  __$$\ $$  __$$\ 
+$$$$\  $$$$ |$$ /  $$ |$$ |      $$ /  $$ |$$ |  $$ |$$ /  $$ |
+$$\$$\$$ $$ |$$ |  $$ |$$ |      $$$$$$$$ |$$$$$$$  |$$$$$$$$ |
+$$ \$$$  $$ |$$ |  $$ |$$ |      $$  __$$ |$$  __$$< $$  __$$ |
+$$ |\$  /$$ |$$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |
+$$ | \_/ $$ | $$$$$$  |$$$$$$$$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |
+\__|     \__| \______/ \________|\__|  \__|\__|  \__|\__|  \__|
+                                                               
 ```
 
+Molara is a high-performance Solana fork that embeds Monero-grade privacy directly into its base layer, creating a blockchain where confidentiality is not optional but fundamental. 
 
-# SOBYTE — The Modular AI-Powered Development Framework for Solana
+Every component of the runtime — transactions, balances, identities, and routing paths — is shielded by default rather than exposed to the public state.
 
-SOBYTE is an intelligent modular development framework that enables builders to create Solana projects the way they assemble code blocks — faster, safer, and easier to maintain.
+Through ring-based cryptography and stealth addressing, all on-chain activity becomes fully private and mathematically untraceable. 
 
-On Solana, the real bottleneck is not the lack of ideas.
-It’s how fast those ideas can become reusable, maintainable, and scalable code.
-SOBYTE does not aim to be another tool.
-It shifts how on-chain engineering is done — connecting modules, best practices, AI generation, and deployment into one continuous system.
+Observation, analytics, and chain forensics yield no meaningful insights, ensuring that users interact without being monitored, profiled, or tracked.
 
-Inside SOBYTE, every project is decomposed into composable functional modules:
-• Token issuance, staking, locking, and revenue sharing
-• Access control, multisig, and role systems
-• NFT / collections and metadata management
-• Oracle integrations and prediction market logic
-• Integrations with AMMs, liquidity tools, and more
+Unlike privacy solutions that rely on mixers, relays, or auxiliary networks, Molara integrates shielding inside the parallel execution engine itself. 
 
-You don’t need to implement everything from scratch.
-With SOBYTE, you simply select modules, generate scaffolding, run checks, and deploy.
-If you understand the business logic, you can ship on Solana.
-If you’re already a developer, your productivity jumps to a new dimension.
+This preserves Solana’s defining advantages — high throughput, low latency, and a seamless developer experience — without sacrificing privacy for performance.
 
-------------------------------------------------------------
+On Molara, individuals transact freely without surveillance, institutions operate without leakage, and builders are no longer forced to choose between speed and confidentiality. 
 
-WORKFLOW
+The network delivers both at the same time.
 
-SOBYTE has a 2-phase development process:
-
-1) Build
-- Select Modules: tokens, NFTs, roles, governance, and more.
-- Generate Scaffolding: SOBYTE automatically creates the full project structure and core contract layout.
-
-2) Ship
-- Run Checks: logic validation and basic security scanning.
-- Deploy Fast: deploy instantly to Devnet, Testnet, or Mainnet.
-
-------------------------------------------------------------
-
-PROJECT MISSION
-
-To make Solana development truly fast, safe, and accessible to everyone — from newcomers to advanced developers.
-
-------------------------------------------------------------
-
-SECURITY REMINDER
-
-Only use the official website and the official GitHub repository.
-Do not purchase fake tokens or interact with unofficial contracts.
-
-------------------------------------------------------------
-
-STATUS
-
-SOBYTE V1 is live and open-sourced on GitHub.
-The codebase contains more than 1700 commits and continues to update weekly.
-
-------------------------------------------------------------
-
-CONTRIBUTIONS
-
-Contributions, discussions, and PRs are welcome.
-Builders are encouraged to contribute new modules or improve existing ones.
-
-------------------------------------------------------------
-
-LICENSE
-
-Open-source and free for the community.
+Molara represents a shift in blockchain design: a fast execution layer where the right to privacy is not an add-on or a premium feature, but the default state.
