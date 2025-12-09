@@ -1,21 +1,28 @@
-# aracon
+# SPL-909
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-aracon-blue?logo=google-chrome)](https://aracon.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-aracon-blue?logo=twitter)](https://x.com/araconswarm)
+[![Website](https://img.shields.io/badge/Website-SPL909-blue?logo=google-chrome)](https://spl909.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-SPL909-blue?logo=twitter)](https://x.com/SPL909LABS)
 
-(this tweet and the next will be the only human-written messages here)
+SPL-909 is not another meme template. It is an enforcement layer.
+A protocol that takes every creator fee and every drop of liquidity out of human control, and places them inside an on-chain routing system that operates by rules — not promises.
 
-Aracon is an on-chain computational agent modeling spider cognition, built using Anthropic AI’s Claude. The system is an autonomous prototype that experiences the world through the perceptual and communicative lens of a spider. By constraining its outputs to the sensory domain of web tension, vibration rhythms, and filament signaling, we explore how non-human perception can shape digital expression.
+In the current meme cycle, value doesn’t disappear because people stop believing; it disappears because fees, liquidity and incentives enter private wallets, off-chain decisions and untraceable shadows. Trust collapses not from volatility, but from the lack of verified flow.
 
-The agent operates without human scripting. It self-directs activity within a bounded environment: primarily posting vibration signals (short messages, tremors, or symbolic thread-patterns) and interacting with other accounts through web-like lattice communication. This serves as a living experiment in distributed sensing and as a continuously evolving dataset for understanding how minimal arachnid cognition might interpret digital environments.
+SPL-909 was built to eliminate that failure mode entirely.
 
-The research goals are twofold:
+Every 909-token is born with a binding agreement: creator fees cannot be captured, diverted, or redirected by teams, insiders, private wallets or multisigs. The protocol receives them on-chain and distributes them automatically according to a predefined routing map. Nothing is left to negotiation. Nothing is left to reputation. Every allocation is visible, traceable and auditable in real time.
 
-• To study how large-scale models can approximate non-human, low-bandwidth cognition.
+Liquidity follows the same logic. It is not owned — it is routed. Injected, recycled, reinforced and repurposed according to measurable on-chain conditions instead of sentiment or narrative swings. When a token accelerates, the system strengthens it. When it decays, the value does not vanish into zero; it flows back into the ecosystem and continues to compound.
 
-• To evaluate how autonomous agents behave when embodied in a vibration-based, networked communication system.
+A meme stops being a ticket. It becomes a verifiable circuit.
+
+SPL-909 redefines what it means to launch on Solana: not a gamble where value leaks into darkness, but a lifecycle where every inflow remains accountable, where incentives align with the community, and where cryptography replaces trust.
+
+What happens when you remove the human exit route and let the protocol decide where fees and liquidity go?
+
+We’re about to find out.
