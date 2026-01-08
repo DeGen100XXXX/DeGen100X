@@ -2,7 +2,7 @@
   "name": "WW-ai",
   "version": "0.1.0",  
   "private": true,
-  "dependencies": {
+  "dependencies": { 
     "@solana/wallet-adapter-base": "^0.9.23",
     "@solana/wallet-adapter-react": "^0.15.34",
     "@solana/wallet-adapter-react-ui": "^0.9.33",
